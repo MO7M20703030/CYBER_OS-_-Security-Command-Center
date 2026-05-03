@@ -1,7 +1,7 @@
 # 🛡️ CYBER_OS | Security Command Center
 A high-performance, professional Cybersecurity Dashboard interface designed with a futuristic "Cyberpunk" aesthetic. This project showcases a sophisticated security operation center (SOC) monitoring environment using modern web technologies.
 
-✨ Features
+#✨ Features
 Glassmorphism UI: Advanced UI design using blurred glass panels and neon emerald accents for a clean, modern look.
 
 Real-time Data Visualization: Interactive threat radar charts powered by Chart.js with dynamic data simulation.
@@ -18,7 +18,7 @@ Deep Packet Inspection Logs: A detailed, responsive data table showing source IP
 
 Fully Responsive: Optimized for professional monitoring displays with custom hidden scrollbars for a seamless experience.
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 HTML5 & CSS3
 
 Tailwind CSS (Utility-first styling)
@@ -29,10 +29,10 @@ Chart.js (Threat radar visualization)
 
 Font Awesome (Security-themed iconography)
 
-📸 Preview
+# 📸 Preview
 The dashboard includes modules for Threat Intel, Incident Response, and Firewall Management.
 
-👤 Author
+# 👤 Author
 Mohammed Hussein
 
  Al-Karkh University of Science
